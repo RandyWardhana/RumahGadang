@@ -117,7 +117,7 @@ public class BangunRuangLWJGL {
 
     private void updateFPS() {
         if(Sys.getTime()-lastTime>1000) {
-            Display.setTitle("Create Cube using OpenGL by Randy W");
+            Display.setTitle("Membuat Rumah Gadang");
             fps = 0;
             lastTime = Sys.getTime();
         }
